@@ -1,6 +1,12 @@
 @startuml pow
 
-class Pow
+class Pow{
+
+
+
+    
+}
+
 class Moneda 
 
 class Juego
